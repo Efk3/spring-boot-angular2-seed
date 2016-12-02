@@ -1,4 +1,4 @@
-# Spring Boot Hello World with Angular 2 and Webpack seed
+# Spring Boot Hello World with Angular 2 and Webpack
 [![Dependency Status](https://david-dm.org/Efk3/spring-boot-angular2-seed.svg)](https://david-dm.org/Efk3/spring-boot-angular2-seed)
 [![devDependency Status](https://david-dm.org/Efk3/spring-boot-angular2-seed/dev-status.svg)](https://david-dm.org/Efk3/spring-boot-angular2-seed?type=dev)
 
